@@ -4,7 +4,7 @@
 **Team:** Ruipeng Yu, Yuhan Chen
 
 Based on the [FALCON](https://github.com/Zeying-Gong/Falcon) framework for SocialNav.
-Project guidance: [aiaa4220_hw3](https://github.com/Zeying-Gong/aiaa4220_hw3).(Reference for setup and )
+Project guidance: [aiaa4220_hw3](https://github.com/Zeying-Gong/aiaa4220_hw3).(Reference for starting)
 
 ---
 
